@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816721547929",
+    "project_id": "messaging-app-5a448",
+    "storage_bucket": "messaging-app-5a448.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816721547929:android:80eaacee79b4dcddbe5e08",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMDkYXw0aCMBpDcY4IE5k4vnVqun8dR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816721547929:android:98f40bcf509ed216be5e08",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMDkYXw0aCMBpDcY4IE5k4vnVqun8dR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
